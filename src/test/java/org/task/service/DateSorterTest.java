@@ -1,4 +1,4 @@
-package org.test.service;
+package org.task.service;
 
 import org.junit.Assert;
 import org.junit.Test;
